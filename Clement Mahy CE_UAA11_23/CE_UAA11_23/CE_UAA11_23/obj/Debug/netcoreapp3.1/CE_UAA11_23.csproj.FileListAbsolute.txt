@@ -1,0 +1,14 @@
+C:\Users\210305\Desktop\Clement Mahy CE_UAA11_23\CE_UAA11_23\CE_UAA11_23\bin\Debug\netcoreapp3.1\CE_UAA11_23.exe
+C:\Users\210305\Desktop\Clement Mahy CE_UAA11_23\CE_UAA11_23\CE_UAA11_23\bin\Debug\netcoreapp3.1\CE_UAA11_23.deps.json
+C:\Users\210305\Desktop\Clement Mahy CE_UAA11_23\CE_UAA11_23\CE_UAA11_23\bin\Debug\netcoreapp3.1\CE_UAA11_23.runtimeconfig.json
+C:\Users\210305\Desktop\Clement Mahy CE_UAA11_23\CE_UAA11_23\CE_UAA11_23\bin\Debug\netcoreapp3.1\CE_UAA11_23.runtimeconfig.dev.json
+C:\Users\210305\Desktop\Clement Mahy CE_UAA11_23\CE_UAA11_23\CE_UAA11_23\bin\Debug\netcoreapp3.1\CE_UAA11_23.dll
+C:\Users\210305\Desktop\Clement Mahy CE_UAA11_23\CE_UAA11_23\CE_UAA11_23\bin\Debug\netcoreapp3.1\CE_UAA11_23.pdb
+C:\Users\210305\Desktop\Clement Mahy CE_UAA11_23\CE_UAA11_23\CE_UAA11_23\obj\Debug\netcoreapp3.1\CE_UAA11_23.csproj.AssemblyReference.cache
+C:\Users\210305\Desktop\Clement Mahy CE_UAA11_23\CE_UAA11_23\CE_UAA11_23\obj\Debug\netcoreapp3.1\CE_UAA11_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\210305\Desktop\Clement Mahy CE_UAA11_23\CE_UAA11_23\CE_UAA11_23\obj\Debug\netcoreapp3.1\CE_UAA11_23.AssemblyInfoInputs.cache
+C:\Users\210305\Desktop\Clement Mahy CE_UAA11_23\CE_UAA11_23\CE_UAA11_23\obj\Debug\netcoreapp3.1\CE_UAA11_23.AssemblyInfo.cs
+C:\Users\210305\Desktop\Clement Mahy CE_UAA11_23\CE_UAA11_23\CE_UAA11_23\obj\Debug\netcoreapp3.1\CE_UAA11_23.csproj.CoreCompileInputs.cache
+C:\Users\210305\Desktop\Clement Mahy CE_UAA11_23\CE_UAA11_23\CE_UAA11_23\obj\Debug\netcoreapp3.1\CE_UAA11_23.dll
+C:\Users\210305\Desktop\Clement Mahy CE_UAA11_23\CE_UAA11_23\CE_UAA11_23\obj\Debug\netcoreapp3.1\CE_UAA11_23.pdb
+C:\Users\210305\Desktop\Clement Mahy CE_UAA11_23\CE_UAA11_23\CE_UAA11_23\obj\Debug\netcoreapp3.1\CE_UAA11_23.genruntimeconfig.cache
